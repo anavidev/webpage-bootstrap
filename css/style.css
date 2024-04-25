@@ -1,0 +1,46 @@
+/** cor background **/
+
+.bs-body-color{
+    background-color: rgb(238, 238, 238) !important;
+}   
+
+.bg-primary{
+    background-color: rgb(1, 45, 120) !important;
+}
+
+.bg-primary-subtle{
+    background-color: rgb(0, 30, 82) !important;
+}
+
+.bg-secondary{
+    background-color: rgb(30, 79, 163) !important;
+}
+
+.bg-tertiary{
+    background-color: rgb(249, 96, 7) !important;
+}
+
+/** cor border **/
+
+.border-primary{
+    border-color: rgb(249, 96, 7) !important;
+}
+
+/** cor text **/
+
+.text-primary{
+    color: rgb(249, 96, 7) !important;
+}
+
+.text-secondary{
+    color: rgb(31, 31, 31) !important;
+}
+
+.text-terciary{
+    color: rgb(255, 255, 255) !important;
+}
+
+.text-terciary-subtle{
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
