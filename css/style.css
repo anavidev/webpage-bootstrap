@@ -44,3 +44,11 @@
     color: rgba(255, 255, 255, 0.5) !important;
 }
 
+/** header **/
+img{
+    width: 600px;
+}
+
+.card {
+    width: 25rem;
+}
